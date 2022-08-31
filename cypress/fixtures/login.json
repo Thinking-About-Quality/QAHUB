@@ -1,0 +1,19 @@
+{
+    "login_email": {
+        "email": "teste@teste.com",
+        "senha": "Teste@123"
+    },
+    "cpf": {
+        "cpf": "145.505.340-60",
+        "senha": "Teste@123"
+    },
+    "cpf_incorr": {
+        "cpf": "145505340",
+        "senha": "Teste@123"
+    },
+    "login_cnpj": {
+        "cnpj": "56.769.851/0001-58",
+        "senha": "Teste@123"
+    }
+
+}
